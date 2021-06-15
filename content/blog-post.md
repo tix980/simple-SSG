@@ -1,10 +1,11 @@
 ---
-Title: The Shining
+Title: The shining
 date: 327941537000
 description: The film's central character is Jack Torrance (Nicholson), an aspiring writer and recovering alcoholic who accepts a position as the off-season caretaker of the isolated historic Overlook Hotel in the Colorado Rockies. Wintering over with Jack are his wife, Wendy Torrance (Duvall), and young son, Danny Torrance (Lloyd). Danny is gifted with "the shining", psychic abilities that enable him to see into the hotel's horrific past. The hotel cook, Dick Hallorann (Crothers), also has this ability and is able to communicate with Danny telepathically. The hotel had a previous winter caretaker who went insane and killed his family and himself. After a winter storm leaves the Torrances snowbound, Jack's sanity deteriorates due to the influence of the supernatural forces that inhabit the hotel, placing his wife and son in danger.
 ---
 
 ## Plot
+
 Jack Torrance takes a winter caretaker position at the remote Overlook Hotel in the Rocky Mountains which closes every winter season. Manager Stuart Ullman divulges that a previous caretaker, Charles Grady, killed his family and himself in the hotel.
 
 In Boulder, Jack's son, Danny, has a premonition and seizure. Jack's wife, Wendy, tells the doctor about a past incident where Jack dislocates Danny's shoulder during a drunken rage.

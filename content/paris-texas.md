@@ -1,5 +1,5 @@
 ---
-title: Paris, Texas (film)
+Title: Paris, Texas (film)
 date: 1580587200000
 description: Paris, Texas is a 1984 road movie directed by Wim Wenders and starring Harry Dean Stanton, Dean Stockwell, Nastassja Kinski, and Hunter Carson. The screenplay was written by L. M. Kit Carson and playwright Sam Shepard, while the musical score was composed by Ry Cooder. The film was a co-production between companies in France and West Germany, and was shot in the United States by Robby Müller.
 ---
